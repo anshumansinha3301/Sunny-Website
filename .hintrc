@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/structure": "off",
+    "axe/aria": "off",
+    "axe/name-role-value": "off",
+    "meta-viewport": "off"
+  }
+}
